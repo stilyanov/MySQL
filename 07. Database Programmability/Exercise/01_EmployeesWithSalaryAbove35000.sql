@@ -4,4 +4,4 @@ BEGIN
     FROM employees
     WHERE salary > 35000
     ORDER BY first_name, last_name, employee_id;
-END
+END;
